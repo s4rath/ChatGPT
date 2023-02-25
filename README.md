@@ -17,6 +17,16 @@ To run this application, you will need:
  4. Run the following command to start the application:
     - flutter run
  
+ ## Screenshots
+ 
+ ![HomePage](https://user-images.githubusercontent.com/83325357/221340754-9a9e3cfd-c7f6-4d34-bf57-d806d58d396d.jpg)
+ 
+ ![ChatScreen](https://user-images.githubusercontent.com/83325357/221340759-08c133cd-06c3-4bb0-b743-a892870c1caa.jpg)
+
+ ![ChatScreen 2](https://user-images.githubusercontent.com/83325357/221340765-466e449c-67db-4f95-ba7d-61ef39181a3b.jpg)
+
+
+ 
  ## Acknowledgments
 
 This project was made possible with the help of the following resources:
